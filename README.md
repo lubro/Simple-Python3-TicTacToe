@@ -1,5 +1,2 @@
 # Simple-Python-Tic-Tac-Toe
-Just a Simple Tic Tac Toe Feeld for 2 Players only written in Python 3
-
-It shuld not be more or less, just a Simple Tick Tac Toe Feeld written in Python3 for evryone who want to play with it.
-And for evry one who want to get some inspiration in the Code.
+Just a simple multiplayer Tic-Tac-Toe
